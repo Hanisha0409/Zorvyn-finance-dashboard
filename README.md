@@ -1,16 +1,78 @@
-# React + Vite
+# 💎 Zorvyn Finance Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium finance dashboard built using **React**, **Tailwind CSS**, and **Recharts** with a modern UI, smooth animations, and admin-level transaction management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* 📊 Interactive Dashboard Analytics
+* 💳 Premium Transactions Table (Admin access)
+* ➕ Add Transactions (Admin only)
+* 📈 Insights Section with financial highlights
+* 🌙 Dark / Light Mode toggle
+* 🎨 Glassmorphism UI + gradient glow design
+* ⚡ Smooth animations and hover effects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* ⚛️ React (Vite)
+* 🎨 Tailwind CSS
+* 📊 Recharts
+* 🎯 Lucide Icons
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots here (recommended for portfolio)
+
+```
+/assets/dashboard.png
+/assets/transactions.png
+/assets/insights.png
+```
+
+Example:
+
+![Dashboard](./assets/dashboard.png)
+
+---
+
+## ▶️ Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+> (Add your Vercel link here after deployment)
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+components/
+App.jsx
+main.jsx
+```
+
+---
+
+## 👩‍💻 Author
+
+**Hanisha Senthilkumaran**
+
+---
+
+## ⭐ Show your support
+
+If you like this project, give it a ⭐ on GitHub!
