@@ -25,22 +25,6 @@ A premium finance dashboard built using **React**, **Tailwind CSS**, and **Recha
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here (recommended for portfolio)
-
-```
-/assets/dashboard.png
-/assets/transactions.png
-/assets/insights.png
-```
-
-Example:
-
-![Dashboard](./assets/dashboard.png)
-
----
-
 ## ▶️ Run Locally
 
 ```bash
@@ -52,7 +36,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-> (Add your Vercel link here after deployment)
+https://zorvyn-finance-dashboard-opal.vercel.app/
 
 ---
 
